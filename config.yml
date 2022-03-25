@@ -30,11 +30,6 @@ webstack:
     # 可选的搜索引擎
     engines:
       - google
-      - github
-      - weibo
-      - baidu
-      - bilibili
-      - zhihu
 
 content:
   categories:
