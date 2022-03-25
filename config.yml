@@ -38,23 +38,15 @@ webstack:
 
 content:
   categories:
-    - name: 常用推荐
+    - name: 公式サイト
       sites:
-        - name: エーアールシステム公式サイト
-          description: 全球UI设计师作品分享平台。
-          url: https://www.ar-system.co.jp/
-    - name: 界面灵感
-      sites:
-        - name: 咕噜素材
-          description: 质量很高的设计素材网站（推荐）
-          url: https://www.gulusucai.com/
-        - name: 设计周刊
-          description: 最新设计资讯（每天更新）
-          url: https://www.shejizhoukan.com/
-        - name: 字体仓库
-          description: 最全的免费商用字体库
-          url: https://www.ziticangku.com/
-        - name: 电鸭社区
-          description: 国内最早的远程工作社区，也是互联网工作者们的聚集地，非常适合设计开发小伙伴关注
-          url: https://eleduck.com/
-    
+        - name: エーアールシステム
+          description: 公式サイト
+          url: https://www.ar-system.co.jp/ 
+        - name: サポートサイト
+          description: サポート
+          url: https://www.ar-system.co.jp/support/
+        - name: 社内Wiki
+          description: Wiki
+          url: https://www.ar-system.co.jp/wiki/        
+
