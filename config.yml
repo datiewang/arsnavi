@@ -40,8 +40,18 @@ content:
           url: https://www.ar-system.co.jp/ 
         - name: サポートサイト
           description: サポート
-          url: https://www.ar-system.co.jp/support/
+          url: https://www.ar-system.co.jp/support/ 
+    - name: Tools
+      sites:
+        - name: rakumo
+          description: カレンダー
+          url: https://a-rakumo.appspot.com/calendar#/calendars/group/all@ar-system.co.jp
+        - name: 社員フォルダ
+          description: Google Drive
+          url: https://drive.google.com/drive/folders/1gVIh2kQkRaRulSrSzHVxnNRcUz2vYLtJ 
+        - name: Qast
+          description: Qast
+          url: https://ars.qast.jp/
         - name: 社内Wiki
           description: Wiki
-          url: https://www.ar-system.co.jp/wiki/        
-
+          url: https://www.ar-system.co.jp/wiki/ 
