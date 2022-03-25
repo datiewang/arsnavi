@@ -55,3 +55,10 @@ content:
         - name: 社内Wiki
           description: Wiki
           url: https://www.ar-system.co.jp/wiki/ 
+        - name: 会議室のZoomのリンク
+          description: 自由に使ってください
+          url: https://docs.google.com/document/d/1fgYFWjhONOqPsx8B--JJ7QJTWI3YUzh-5n0KMDgsWa0/edit
+        - name: WiFi
+          description: 社内WiFiのパスワード
+          url: https://www.ar-system.co.jp/wiki/doku.php?id=wifi          
+     
