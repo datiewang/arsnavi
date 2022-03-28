@@ -60,5 +60,10 @@ content:
           url: https://docs.google.com/document/d/1fgYFWjhONOqPsx8B--JJ7QJTWI3YUzh-5n0KMDgsWa0/edit
         - name: WiFi
           description: 社内WiFiのパスワード
-          url: https://www.ar-system.co.jp/wiki/doku.php?id=wifi          
+          url: https://www.ar-system.co.jp/wiki/doku.php?id=wifi    
+     - name: インフラ
+      sites:
+        - name: Oracle再起動
+          description: 通知のまとめ
+          url: https://docs.google.com/spreadsheets/d/1l1gdPyBfm2vzluRukBUHBiwML0kBMAXu/edit#gid=219466182    
      
