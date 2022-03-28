@@ -63,6 +63,12 @@ content:
           url: https://www.ar-system.co.jp/wiki/doku.php?id=wifi    
     - name: インフラ
       sites:
+        - name: OCI
+          description: 管理画面
+          url: https://cloud.oracle.com/  
+        - name: OCI SR
+          description: OCIのサポートサイト
+          url: https://support.oracle.com/
         - name: Oracle再起動
           description: 通知のまとめ
           url: https://docs.google.com/spreadsheets/d/1l1gdPyBfm2vzluRukBUHBiwML0kBMAXu/edit#gid=219466182    
