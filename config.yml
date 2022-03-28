@@ -61,7 +61,7 @@ content:
         - name: WiFi
           description: 社内WiFiのパスワード
           url: https://www.ar-system.co.jp/wiki/doku.php?id=wifi    
-     - name: インフラ
+    - name: インフラ
       sites:
         - name: Oracle再起動
           description: 通知のまとめ
