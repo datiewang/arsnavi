@@ -52,6 +52,9 @@ content:
         - name: Qast
           description: Qast
           url: https://ars.qast.jp/
+        - name: Wrike
+          description: Wrike
+          url: https://www.wrike.com/
         - name: 社内Wiki
           description: Wiki
           url: https://www.ar-system.co.jp/wiki/ 
