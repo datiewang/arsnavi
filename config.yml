@@ -46,9 +46,9 @@ content:
         - name: rakumo
           description: カレンダー
           url: https://a-rakumo.appspot.com/calendar#/calendars/group/all@ar-system.co.jp
-        - name: 社員フォルダ
+        - name: ArsMember共有
           description: Google Drive
-          url: https://drive.google.com/drive/folders/1gVIh2kQkRaRulSrSzHVxnNRcUz2vYLtJ 
+          url: https://drive.google.com/drive/folders/1JLFUU_ToXU6sLefX_pRYByu516r8D_cW
         - name: Qast
           description: Qast
           url: https://ars.qast.jp/
@@ -63,7 +63,18 @@ content:
           url: https://docs.google.com/document/d/1fgYFWjhONOqPsx8B--JJ7QJTWI3YUzh-5n0KMDgsWa0/edit
         - name: WiFi
           description: 社内WiFiのパスワード
-          url: https://www.ar-system.co.jp/wiki/doku.php?id=wifi    
+          url: https://www.ar-system.co.jp/wiki/doku.php?id=wifi          
+    - name: 日報系
+      sites:
+        - name: 部署：定例議事録
+          description: ◯△×□(?）
+          url: https://docs.google.com/spreadsheets/u/2/d/1Yd7XrEvuhXRv1F6MM3xgT6XxvUHjBLgvNHkyutMwGaI/edit#gid=0
+        - name: お客様対応管理シート
+          description: 営業推進部用
+          url: https://docs.google.com/spreadsheets/d/12ariElbLaHpcs2m-g5lCzoKkU-wjlAy8wmHsxI52h9M/edit?usp=sharing
+        - name: 開発部日報
+          description: 2022最新バージョン
+          url: https://drive.google.com/drive/folders/1BsTLzPPtdtmv59mut9FvWhOtqzih1NO6   
     - name: インフラ
       sites:
         - name: OCI
@@ -74,5 +85,9 @@ content:
           url: https://support.oracle.com/
         - name: Oracle再起動
           description: 通知のまとめ
-          url: https://docs.google.com/spreadsheets/d/1l1gdPyBfm2vzluRukBUHBiwML0kBMAXu/edit#gid=219466182    
+          url: https://docs.google.com/spreadsheets/d/1l1gdPyBfm2vzluRukBUHBiwML0kBMAXu/edit#gid=219466182
+        - name: OCI残金
+          description: 日次コストと見積もり計算
+          url: https://docs.google.com/spreadsheets/d/1ao2epZcpu0oovknDCYYxDCbl_uC1nby-/edit?rtpof=true    
+     
      
