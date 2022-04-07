@@ -88,6 +88,14 @@ content:
           url: https://docs.google.com/spreadsheets/d/1l1gdPyBfm2vzluRukBUHBiwML0kBMAXu/edit#gid=219466182
         - name: OCI残金
           description: 日次コストと見積もり計算
-          url: https://docs.google.com/spreadsheets/d/1ao2epZcpu0oovknDCYYxDCbl_uC1nby-/edit?rtpof=true    
+          url: https://docs.google.com/spreadsheets/d/1ao2epZcpu0oovknDCYYxDCbl_uC1nby-/edit?rtpof=true  
+    - name: マーケティング
+      sites:
+        - name: 定期MTG
+          description: 毎朝10:15-10:30
+          url: https://us06web.zoom.us/j/89739195105?pwd=MTVNRWxNZjZyNk1LSWZGKzdsN3JTQT09
+        - name: 共有シート
+          description: 「ARS_マーケティング強化PJ」
+          url: https://docs.google.com/spreadsheets/d/1tEOdwOIs9M1KhDSmZTAsk7kAxqikLBXNYIl9Mf8AdQM/edit#gid=1709612637
      
      
