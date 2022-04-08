@@ -88,7 +88,13 @@ content:
           url: https://docs.google.com/spreadsheets/d/1l1gdPyBfm2vzluRukBUHBiwML0kBMAXu/edit#gid=219466182
         - name: OCI残金
           description: 日次コストと見積もり計算
-          url: https://docs.google.com/spreadsheets/d/1ao2epZcpu0oovknDCYYxDCbl_uC1nby-/edit?rtpof=true  
+          url: https://docs.google.com/spreadsheets/d/1ao2epZcpu0oovknDCYYxDCbl_uC1nby-/edit?rtpof=true
+        - name: インフラフォルダ
+          description: Wrike
+          url: https://www.wrike.com/workspace.htm?acc=3708990#path=folder&id=874069097&c=board&a=3708990&so=10&bso=10&sd=0&st=space-492925794
+        - name: 王Notion
+          description: 情報共有
+          url: https://arsou.notion.site/23a020fe761841a9a374d7a9317428b2?v=abfd75da02ce4e7496f86f9b0f09d251
     - name: マーケティング
       sites:
         - name: 定期MTG
