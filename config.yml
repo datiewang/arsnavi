@@ -19,7 +19,7 @@ footer: © 2021-2021 @datiewang
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
 template: webstack
-
+9
 # Google analytics
 google_analytics: "G-EXE1PJ8CR2"
 
@@ -38,6 +38,9 @@ content:
         - name: エーアールシステム
           description: 公式サイト
           url: https://www.ar-system.co.jp/ 
+        - name: 通販Ace
+          description: 通販Ace製品公式サイト
+          url: https://ace-ars.jp/
         - name: サポートサイト
           description: サポート
           url: https://www.ar-system.co.jp/support/ 
